@@ -23,15 +23,15 @@
 
 - Random Forest classifier with 10,005 features per email
 - TF-IDF vectorization + manual security features
-- ROC-AUC of 0.9981 — catches 99.2% of all phishing emails
-- Gmail + Outlook API integration *(coming soon)*
-- Flask web deployment with live URL *(coming soon)*
+- ROC AUC of 0.9981 — catches 99.2% of all phishing emails
+- Gmail + Outlook API integration (coming soon)
+- Flask web deployment with live URL (coming soon)
 
 [View Project →](https://github.com/PrinceOseiBonsu/AI-Phishing-Email-Detector)
 
 ---
 
-### 🔍 SentinelScan — Personal Security Audit Tool *(In Development)*
+### 🔍 SentinelScan — Personal Security Audit Tool (In Development)
 > Scans your system for vulnerabilities and generates a full security report
 
 - Detects open ports, weak passwords, outdated software
@@ -41,43 +41,13 @@
 
 ---
 
-### 🌐 ThreatWatch — Threat Intelligence Dashboard *(Coming Soon)*
+### 🌐 ThreatWatch — Threat Intelligence Dashboard (In Development)
 > Live global threat intelligence dashboard powered by real security APIs
 
 - Pulls live data from VirusTotal, AbuseIPDB and Shodan
 - Visualizes active malware, phishing domains and attack patterns
 - Flags if current threats match your system
 - Mirrors Microsoft Sentinel and Palo Alto Cortex
-
----
-
-### 🦠 MalwareScope — AI Malware Classifier *(Planned)*
-> Analyzes suspicious files and classifies as malware or safe
-
-- ML powered static analysis
-- VirusTotal API integration
-- OpenAI explanation of malware behavior
-- Targets CrowdStrike and SentinelOne level detection
-
----
-
-### 🔓 AutoRecon — Automated Penetration Testing Tool *(Planned)*
-> Automates reconnaissance and vulnerability discovery
-
-- Nmap integration for port and service scanning
-- Automated vulnerability prioritization
-- Professional pentest report generation
-- Built for ethical hacking and bug bounty workflows
-
----
-
-### 🖥️ SOCView — Security Operations Center Dashboard *(Planned)*
-> Full SOC simulation with real time alert monitoring
-
-- Multi source threat correlation
-- Incident response tracking
-- Real time WebSocket updates
-- Team collaboration features
 
 ---
 
@@ -98,16 +68,16 @@ Tools         → Git, GitHub, VS Code
 - ✅ Google Cybersecurity Professional Certificate
 - ✅ Cisco — Introduction to Cybersecurity
 - ✅ TryHackMe — Pre-Security Path
-- 🔄 CompTIA Security+ *(In Progress)*
-- 🎯 eJPT *(Planned)*
-- 🎯 OSCP *(Goal)*
+- 🔄 CompTIA Security+ (In Progress)
+- 🎯 eJPT (Planned)
+- 🎯 OSCP (Goal)
 
 ---
 
 ## 🗺️ My Pentesting Roadmap
 Now          → Building security projects + PortSwigger labs
 2026         → Security Engineer Internship
-2026-2027    → eJPT certification + HackTheBox Pro Labs
+2026 2027    → eJPT certification + HackTheBox Pro Labs
 2027         → OSCP certification
 2027+        → Professional Penetration Tester / Red Team Engineer
 
@@ -131,11 +101,3 @@ Now          → Building security projects + PortSwigger labs
 ---
 
 *"The best defense comes from understanding the offense"* 💪🏾
-
-Project names explained
-AI Phishing Email Detector → keeps the name (already on GitHub)
-SentinelScan               → Project 2 (security audit tool)
-ThreatWatch                → Project 3 (threat intelligence)
-MalwareScope               → Project 4 (malware classifier)
-AutoRecon                  → Project 5 (pentest automation)
-SOCView                    → Project 6 (SOC dashboard)
